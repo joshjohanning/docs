@@ -137,7 +137,7 @@
     "glob": "^7.2.0",
     "graphql": "^16.3.0",
     "http-status-code": "^2.1.0",
-    "husky": "^7.0.4",
+    "husky": "^8.0.1",
     "japanese-characters": "^1.1.0",
     "javascript-stringify": "^2.1.0",
     "jest": "^27.4.7",
